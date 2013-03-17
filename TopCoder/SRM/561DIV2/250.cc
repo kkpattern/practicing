@@ -1,3 +1,15 @@
+/*
+ * Problem Statement
+ *     
+ * Fox Ciel is planning to visit the Tourist Kingdom for total days. This
+ * kingdom is full of lovely cities. During her stay Ciel would like to visit as
+ * many different cities as possible. She cannot visit more than one city on the
+ * same day.   Additionally, different cities may require her to stay for a
+ * different number of days. For each i, city i only counts as visited if Ciel
+ * spends at least d[i] days in the city.   You are given the int total and the
+ * vector <int> d. Return the maximal number of cities she can visit during her
+ * vacation.
+ */
 #include <stdio.h>
 
 #include <algorithm>
