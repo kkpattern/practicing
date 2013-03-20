@@ -25,10 +25,10 @@
  * keySize is the number of keys on Tomek's keyboard. Each element of keySize
  * gives the maximal number of letters on one of the keys.
  *  
- *  Find an assignment of letters to keys that minimizes the number of
- *  keystrokes needed to type Tomek's entire text. Return that minimum number
- *  of keystrokes. If there is not enough room on the keys and some letters
- *  of the alphabet won't fit, return -1 instead.
+ * Find an assignment of letters to keys that minimizes the number of
+ * keystrokes needed to type Tomek's entire text. Return that minimum number
+ * of keystrokes. If there is not enough room on the keys and some letters
+ * of the alphabet won't fit, return -1 instead.
  */
 #include <stdio.h>
 

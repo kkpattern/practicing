@@ -9,19 +9,19 @@ A histogram of a given collection of numbers graphically represents the frequenc
 Definition
 ----------
     
-- Class: ValueHistogram
-- Method: build
-- Parameters: vector <int>
-- Returns: vector <string>
-- Method signature: vector <string> build(vector <int> values)
+- Class: `ValueHistogram`
+- Method: `build`
+- Parameters: `vector <int>`
+- Returns: `vector <string>`
+- Method signature: `vector <string> build(vector <int> values)`
 (be sure your method is public)
     
 
 Constraints
 -----------
 
-- values will contain between 1 and 50 elements, inclusive.
-- Each element of values will be between 0 and 9, inclusive.
+- `values` will contain between 1 and 50 elements, inclusive.
+- Each element of `values` will be between 0 and 9, inclusive.
 
 
 500 points
