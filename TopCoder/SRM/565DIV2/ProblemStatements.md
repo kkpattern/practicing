@@ -9,15 +9,11 @@ A histogram of a given collection of numbers graphically represents the frequenc
 Definition
 ----------
     
-Class: ValueHistogram
-
-Method: build
-
-Parameters: vector <int>
-
-Returns: vector <string>
-
-Method signature: vector <string> build(vector <int> values)
+- Class: ValueHistogram
+- Method: build
+- Parameters: vector <int>
+- Returns: vector <string>
+- Method signature: vector <string> build(vector <int> values)
 (be sure your method is public)
     
 
