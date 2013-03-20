@@ -35,18 +35,18 @@ Manao is traversing a valley inhabited by monsters. During his journey, he will 
 Definition
 ----------
     
-- Class: MonstersValley2
-- Method: minimumPrice
-- Parameters: vector <int>, vector <int>
-- Returns: int
-- Method signature: int minimumPrice(vector <int> dread, vector <int> price)
+- Class: `MonstersValley2`
+- Method: `minimumPrice`
+- Parameters: `vector <int>`, `vector <int>`
+- Returns: `int`
+- Method signature: `int minimumPrice(vector <int> dread, vector <int> price)`
 (be sure your method is public)
     
 
 Constraints
 -----------
 
-- dread will contain between 1 and 20 elements, inclusive.
-- Each element of dread will be between 1 and 2,000,000,000, inclusive.
-- price will contain between the same number of elements as dread.
-- Each element of price will be either 1 or 2.
+- `dread` will contain between 1 and 20 elements, inclusive.
+- Each element of `dread` will be between 1 and 2,000,000,000, inclusive.
+- `price` will contain between the same number of elements as dread.
+- Each element of `price` will be either 1 or 2.
