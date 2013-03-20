@@ -10,9 +10,13 @@ Definition
 ----------
     
 Class: ValueHistogram
+
 Method: build
+
 Parameters: vector <int>
+
 Returns: vector <string>
+
 Method signature: vector <string> build(vector <int> values)
 (be sure your method is public)
     
