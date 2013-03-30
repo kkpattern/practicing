@@ -8,17 +8,11 @@
 #include <list>
 #include <map>
 #include <set>
+#include <sstream>
 #include <string>
 #include <vector>
 
-using std::list;
-using std::map;
-using std::pair;
-using std::set;
-using std::string;
-using std::vector;
-
-
+using namespace std;
 
 int main() {
   return 0;
