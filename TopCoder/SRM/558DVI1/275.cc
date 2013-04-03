@@ -69,7 +69,7 @@
 using namespace std;
 
 const int INF = 1000000000;
-int push_count_table[50][50][50] = {};
+int push_count_table[51][51][51] = {};
 
 class Stamp {
  public:
